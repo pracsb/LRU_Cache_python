@@ -66,7 +66,6 @@ import xmlrunner
 You can use the library by following:
 ```
 from Prachi_LRU import LRUCache
-from Prachi_LRU import Node
 ```
 or 
 
