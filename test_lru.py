@@ -1,5 +1,5 @@
 import sys
-from lru_cache import LRUCache
+from Prachi_LRU import LRUCache
 
 try:
     if sys.version_info < (2, 7):
